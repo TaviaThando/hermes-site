@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+header { 
+    padding: 60px 0;
+    /* background-color: pink; */
+    margin-left: 20px;
+    width: 99%;
+    text-align: justify;
+    /* letter-spacing: 0.1em; */
+}
+
+nav {
+    word-spacing: 20em;
+    text-align: end;
+}
+
+nav .campaign{
+    color: black;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: 'Outfit', sans-serif;
+}
+
+nav .collection {
+    color: black;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: 'Outfit', sans-serif;
+    /* margin-left: %; */
+}
+
+nav .shop {
+    color: black;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: 'Outfit', sans-serif;
+    /* margin-left: 70%;
+    letter-spacing: 0em; */
+}
+
+.logo{
+    font-family: 'DM Serif Display';
+    font-size: 70px;
+    letter-spacing: 0.15em;
+}
+
+.main-img img{
+    width: 100%;
+}
+
+.collection-logo {
+    color: #FCB057;
+    font-size: 450px;
+    font-weight: 500;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    align-items: center;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    letter-spacing: 0.1em;
+    width: 1850px;
+    height: 600px;
+    overflow-wrap: break-word;
+}
+
+.collection-img img{
+    position: absolute;
+    width: 1700px;
+    height: 2100px;
+    left: 650px;
+    top: 1850px;
+}
+
+.btn button {
+    background-color: #FCB057;
+    border-color: #FCB057;
+    color: #fff;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    letter-spacing: 0.1em;
+    line-height: 69px;
+    position: absolute;
+    width: 450px;
+    height: 200px;
+    left: 350px;
+    top: 3200px;
+}
