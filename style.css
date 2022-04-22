@@ -13,8 +13,12 @@ header {
 nav {
     word-spacing: 20em;
     text-align: end;
+    display: inline;
 }
 
+/* nav .menu {
+    padding-left: ;
+} */
 nav .campaign{
     color: black;
     text-decoration: none;
